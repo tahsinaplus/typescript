@@ -1,4 +1,9 @@
 # TypeScript Leaning and code practise
 
-# Source
-* [HelloWorld]
+## Source
+* HelloWorld
+* Variable Declaration
+* Class
+    ### Class definition
+    ### Access Modifier
+    ### Loops
