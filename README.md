@@ -4,6 +4,6 @@
 * HelloWorld
 * Variable Declaration
 * Class
-    ### Class definition
-    ### Access Modifier
-    ### Loops
+    1. Class definition
+    2. Access Modifier
+    3. Loops
