@@ -18,7 +18,7 @@ export class Shape{
     }
 
     getInfo(): string{
-        return 'x = ${this._x}, y = ${this._y}';
+        return `x = ${this._x}, y = ${this._y}`;
     }
     
 }
